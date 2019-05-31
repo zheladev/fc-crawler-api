@@ -22,6 +22,7 @@ requires = [
     'zope.sqlalchemy',
     'dependency_injector==3.14.2',
     'psycopg2-binary==2.7.6.1',
+    'cerberus==1.2',
 ]
 
 tests_require = [
