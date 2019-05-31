@@ -1,0 +1,3 @@
+[run]
+source = fc_api
+omit = fc_api/test*
